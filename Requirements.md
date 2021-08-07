@@ -1,6 +1,6 @@
-﻿##SDLC Task:
+﻿# SDLC Task:
 
-Product idea: Ecommerce Website
+## Product idea: Ecommerce Website
 
 An ecommerce website is a website that enables you to buy and sell products over the internet. 
 
@@ -8,14 +8,14 @@ E-commerce started in 1960s when organizations began using Electronic Data Inter
 
 It has become so convenient and easy, that anyone can shop anything anytime right from the living room with just a few clicks. This has evolved more with the emergence of smartphones which enables you to shop from anywhere anytime making use of wireless device connected to the internet. It enables you to search any product or services online without having to physically go anywhere. 
 
-There are different types of ecommerce websites:
+### There are different types of ecommerce websites:
 
 - Business-to-business (B2B): Electronic transactions of goods and services between companies. For example, a business sells SAP products to other business.
 - Business-to-Consumer (B2C): Electronic transactions of goods and services between companies and consumers. For example, when you buy shoes from an online store.
 - Consumer-to-Consumer (C2C): Electronic transactions of goods and services between consumers, mostly through a third party. For example, you sell your old laptop on eBay or olx to another consumer.
 - Consumer-to-Business (C2B): Electronic transactions of goods and services where individuals offer products or services to companies. For example, a social media influencer offers exposure to their online audience in exchange for a fee.
 
-How does E-commerce work?
+### How does E-commerce work?
 
 E-commerce is not very different from the physical retail industry. The only difference it has with the brick and mortar store is that here, the entire process takes place over the internet. 
 
@@ -27,7 +27,7 @@ If the consumer is not satisfied with the quality of the product or by mistake a
 
 The product promotion in E-Commerce is also done digitally. The two most promising methods are digital advertising and email marketing. Ads are placed on the social media platforms which are most preferred by the target groups. All visitors are asked to provide their email address. Based on the email list is prepared. After that personal emails are sent. Sometimes personal notifications are also sent to the social media accounts of the prospect costumers. 
 
-Top ecommerce websites includes:
+### Top ecommerce websites includes:
 
 - Amazon
 - Ebay
@@ -36,11 +36,11 @@ Top ecommerce websites includes:
 - Myntra
 - Walmart
 
-Requirements:
+## Requirements:
 
 Let us consider Business-to-Consumer model for our project.
 
-Cost of the ecommerce website:
+### Cost of the ecommerce website:
 
 The major factors on which the cost of the ecommerce business depends are:
 
@@ -52,7 +52,7 @@ The major factors on which the cost of the ecommerce business depends are:
 
 Typically a website can cost somewhere between $5000 and $200000 depends upon the complexity introduced.
 
-Features:
+### Features:
 
 The most important features include:
 
@@ -69,7 +69,7 @@ The most important features include:
 1. Branded design and user-friendly navigation
 1. High-resolution photos and videos
 
-SWOT Analysis
+### SWOT Analysis
 
 Strengths: The wider selection of products and faster or cheaper shipping
 
@@ -79,31 +79,31 @@ Opportunities: The technological innovations provide a lot of opportunity for gr
 
 Threats: Threats are the already established competitors. Also many small business hesitate to join ecommerce and prefer whatsapp, facebook or other social media platform to sell online.
 
-4W’s and 1H:
+### 4W’s and 1H:
 
-Who:
+#### Who:
 
 The target customers are the direct consumers who will make use of the platform to buy products online. A consumer can view the product on the platform and can choose among it and order the same. The website will then send the notification to the business organization and the organization will dispatch the product to the consumer.
 
-What:
+#### What:
 
 The problem at hand is that whenever a consumer needs to buy a product they need to travel physically to the store and purchase it. This traditional process consumes a lot of time and effort which can be utilized to other important tasks otherwise. To tackle this issue an ecommerce website can be used which enables the consumer to purchase any product from any place by just few clicks on their digital device. 
 
-When:
+#### When:
 
 The history of the ecommerce can be traced back to 1960s with the development of the Electronic Data Interchange. Not long after that in 1979 the concept of teleshopping was invented by English inventor Michel Aldrich. Finally in 1990, when the World Wide Web came into existence, the new servers and websites were started being built. In 1994 online books and CDs shopping started in US and soon many products and online shopping services came into existence. 
 
 A website can be built in time of 2 months but planning the business and taking care of the investment and other important issues can take around 3 months. So after around 6 months in total the website can be launched with proper planning.
 
-Where:
+#### Where:
 
 The ecommerce website is an online platform. It can be used from anywhere but it depends whether the services is provided at the consumer’s location. For example, there can be a local ecommerce website that provides services limited to a city or few cities. In that case the consumers in that city can use the website. Starting a new ecommerce business should be small scale so starting with my own city (Ahmedabad) and gradually expanding it.
 
-How:
+#### How:
 
 The product is ecommerce website which will required the front-end and back-end. The Java Spring framework is used to effectively build the website. [further technical specifications TBD]
 
-Overall Requirements:
+### Overall Requirements:
 
 High-level requirements:
 
