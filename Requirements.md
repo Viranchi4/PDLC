@@ -1,4 +1,4 @@
-﻿SDLC Task:
+﻿##SDLC Task:
 
 Product idea: Ecommerce Website
 
@@ -124,11 +124,3 @@ So the key activities can be listed as:
 - Return or replace
 
 These key activities are the high level requirement for the user with can be broken down further in low-level requirements.
-
-Low-level requirements
-
-For user module:
-
-- View, compare, select order
-- Print invoices
-
